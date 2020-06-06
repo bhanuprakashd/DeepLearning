@@ -13,7 +13,7 @@ A network of perceptrons with a hidden layer is called Artificial Neural Network
 
 **_Activation Function_**
 Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:
-<p align="center">![Screenshot](images/activationFunc.PNG)</p>
+                  <p align="center">![Screenshot](images/activationFunc.PNG)</p>
 
 
 **_Learning Rate_**
@@ -34,6 +34,6 @@ Calculate the gradients for the whole dataset and perform just one update at eac
 
 _Mini-batch Gradient Descent_
 Mini-batch gradient is a variation of stochastic gradient descent where instead of single training example, mini-batch of samples is used. It’s one of the most popular optimization algorithms.  
-<p align="center">![Screenshot](images/gradient.PNG)</p>
+                  <p align="center">![Screenshot](images/gradient.PNG)</p>
  
 
