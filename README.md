@@ -13,7 +13,7 @@ A network of perceptrons with a hidden layer is called Artificial Neural Network
 
 **_Activation Function_**
 Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:
-p align="center">![Screenshot](images/activationFunc.PNG)</p>
+<p align="center">![Screenshot](images/activationFunc.PNG)</p>
 
 
 **_Learning Rate_**
@@ -21,7 +21,7 @@ The learning rate, often noted α or sometimes η indicates at which pace the we
 
 **_Cost Function_**
 Cost functions are used to minimize the errors to improve the accuracy of the model. The model improves the training accuracy by minimising the errors using cost functions. There are many cost functions available such as MeanSquareError,MeanAbsoluteError,cross-entropy etc.
-         <p align="center">![Screenshot](images/perceptron2.PNG)</p>
+         <p align="center">![Screenshot](images/perceptron2.png)</p>
  **_Gradient Descent_**
 Gradient descent is an optimization algorithm used in machine learning to learn values of parameters that minimize the cost function. It’s an iterative algorithm, in every iteration, we compute the gradient of the cost function with respect to each parameter and update the parameters of the function.
 
