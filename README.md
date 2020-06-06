@@ -21,7 +21,7 @@ The learning rate, often noted α or sometimes η indicates at which pace the we
 
 **_Cost Function_**
 Cost functions are used to minimize the errors to improve the accuracy of the model. The model improves the training accuracy by minimising the errors using cost functions. There are many cost functions available such as MeanSquareError,MeanAbsoluteError,cross-entropy etc.
-         <p align="center">![Screenshot](images/perceptron2.jpg)</p>
+         <p align="center">![Screenshot](images/perceptron2.PNG)</p>
  **_Gradient Descent_**
 Gradient descent is an optimization algorithm used in machine learning to learn values of parameters that minimize the cost function. It’s an iterative algorithm, in every iteration, we compute the gradient of the cost function with respect to each parameter and update the parameters of the function.
 
@@ -34,6 +34,6 @@ Calculate the gradients for the whole dataset and perform just one update at eac
 
 _Mini-batch Gradient Descent_
 Mini-batch gradient is a variation of stochastic gradient descent where instead of single training example, mini-batch of samples is used. It’s one of the most popular optimization algorithms.  
-<p align="center">![Screenshot](images/gradient.png)</p>
+<p align="center">![Screenshot](images/gradient.PNG)</p>
  
 
