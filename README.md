@@ -9,5 +9,15 @@ A neuron cell in ANN is called Perceptron. It has no hidden layer and it can giv
                   <p align="center">![Screenshot](images/perceptron.png)</p>  
                   
 A network of perceptrons with a hidden layer is called Artificial Neural Network. Neural Network having more than one hidden layer is called deep neural network.
-                 
+                 <p align="center">![Screenshot](images/An.jpg)</p>
+
+**_Activation Function_**
+Activation functions are used at the end of a hidden unit to introduce non-linear complexities to the model. Here are the most common ones:
+![Screenshot](activationFunc.PNG)
+
+**_Learning Rate_**
+The learning rate, often noted α or sometimes η indicates at which pace the weights get updated. This can be fixed or adaptively changed. The current most popular method is called Adam, which is a method that adapts the learning rate.
+
+**_Cost Function_**
+Cost functions are used to minimize the errors to improve the accuracy of the model. The model improves the training accuracy by minimising the errors using cost functions. There are many cost functions available such as MeanSquareError,MeanAbsoluteError,cross-entropy etc.
 
